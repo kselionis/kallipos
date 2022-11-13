@@ -18,3 +18,4 @@ done
 
 
 sed -i '' 's+Figure+Εικόνα+g' ./latex/ch0*
+Footer
